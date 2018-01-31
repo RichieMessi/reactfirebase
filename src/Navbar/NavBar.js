@@ -15,7 +15,7 @@ const NavBar = () => {
             <a className="nav-link" href="/">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/">Github Code</a>
+            <a className="nav-link" href="https://github.com/RichieMessi/reactfirebase" target="_blank">Github Code</a>
           </li>
         </ul>
       </div>
